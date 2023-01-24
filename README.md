@@ -2,7 +2,7 @@
 Embed tiddlywiki with docsify
 
 ## screenshot
-<img src="https://user-images.githubusercontent.com/123137817/214364431-8d571e27-3dd2-4b7c-acbf-702217a2d8b6.png" alt="image"/>
+<img src="https://user-images.githubusercontent.com/123137817/214393368-65e7e713-fc0d-4427-8b6f-b05dba6e9a89.png" alt="image"/>
 
 ## source-code
 
