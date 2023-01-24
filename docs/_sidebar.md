@@ -6,6 +6,6 @@
 
 <h1 align="center">nextexperience.github.io</h5>
 
-* [tiddlywiki-store](/README.md)
+* [homepage](/README.md)
 * [workspace1](workspace1/README.md)
 * [workspace2](workspace2/README.md)
